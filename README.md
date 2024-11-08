@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Beyler
+- prénom : Hugo
+- URL Netlify : https://app.netlify.com/teams/hugo110406/sites
 
 # Travail
 
@@ -12,7 +12,7 @@ Documentation JS/DOM : [MDN](https://developer.mozilla.org/fr/)
 
 Faire dans la console les commandes suivantes :
 
-![](/assets/img/changer-la-couleur-du-texte.png)
+Paragraphe à mettre en rouge Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis nesciunt corrupti natus quibusdam.
 
 ### Réagir à un click
 
